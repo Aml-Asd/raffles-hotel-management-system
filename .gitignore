@@ -1,8 +1,31 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Maven
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.xml
+!pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database files (H2 — auto-generated at runtime)
+*.mv.db
+*.trace.db
+rafflesdb.*
+
+# Logs
+*.log
+
+# Scripts (optional — add back if you need them)
+*.bat
+*.ps1
+*.sh
