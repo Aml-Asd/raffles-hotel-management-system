@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Raffles Hotel Management
+Comment=Raffles Hotel Management System
+Exec=powershell -ExecutionPolicy Bypass -File C:/Users/loq/IdeaProjects/demo10/run-raffles.ps1
+Icon=C:/Users/loq/IdeaProjects/demo10/src/main/resources/images/hotel_icon.png
+Terminal=true
+Categories=Application; 

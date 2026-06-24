@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RafflesHotelApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.demo10.raffles.hotelmgmt.MainApp" />
+    <module name="demo10" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;${user.home}/.m2/repository/org/openjfx/javafx-base/17.0.10/javafx-base-17.0.10-win.jar;${user.home}/.m2/repository/org/openjfx/javafx-controls/17.0.10/javafx-controls-17.0.10-win.jar;${user.home}/.m2/repository/org/openjfx/javafx-fxml/17.0.10/javafx-fxml-17.0.10-win.jar;${user.home}/.m2/repository/org/openjfx/javafx-graphics/17.0.10/javafx-graphics-17.0.10-win.jar;${user.home}/.m2/repository/org/openjfx/javafx-media/17.0.10/javafx-media-17.0.10-win.jar&quot; --add-modules javafx.controls,javafx.fxml,javafx.media,javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component> 
